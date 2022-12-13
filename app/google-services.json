@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018363329936",
+    "project_id": "registration-dbaef",
+    "storage_bucket": "registration-dbaef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018363329936:android:2fb67dced7daf2bb87c715",
+        "android_client_info": {
+          "package_name": "com.example.archili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018363329936-sr4h4h07g0hlrmo88egusagstlm7cjqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7qnsgETccLcE-rnyJhJcEibne5TZJHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018363329936-sr4h4h07g0hlrmo88egusagstlm7cjqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
